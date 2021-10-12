@@ -26,4 +26,4 @@ dataBool = True
 print("data :", dataBool)
 print("-Bertipe", type(dataBool))
 
-##MENGUHUK UHUK
+##OCEANDRIVE
